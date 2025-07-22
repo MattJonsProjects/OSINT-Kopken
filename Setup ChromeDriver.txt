@@ -1,0 +1,8 @@
+## Setup ChromeDriver
+
+1. Download ChromeDriver yang sesuai versi Google Chrome di PC:
+   [https://googlechromelabs.github.io/chrome-for-testing/](https://googlechromelabs.github.io/chrome-for-testing/)
+
+2. Extract dan letakkan `chromedriver.exe` di folder proyek ini
+
+3. Atau, tambahkan ke PATH agar tidak perlu menentukan path di kode
